@@ -16,7 +16,7 @@
     - Set your runtime type to GPU for faster computation through `Runtime > Change runtime type`.
 
 2. **Kaggle Dataset Download**:
-         Download your desired dataset from [kaggel](https://www.kaggle.com/datasets/deadskull7/fer2013) You can either:
+         Download your desired dataset from [kaggle](https://www.kaggle.com/datasets/deadskull7/fer2013) You can either:
     - Upload it directly to Google Colab using the upload button in the sidebar.
     - Save the dataset to Google Drive and access it from Colab using `drive.mount('/content/drive')`.
 ## Key Features:
